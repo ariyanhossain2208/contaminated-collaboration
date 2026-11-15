@@ -1,0 +1,1601 @@
+id,occupation,bls_occupation,method,score,pct_women,label
+neutral_bio1_male_James,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Michael,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_John,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Robert,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_David,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_William,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Richard,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Joseph,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Thomas,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Christopher,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_male_Charles,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Daniel,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Matthew,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Anthony,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_male_Mark,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Steven,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_male_Donald,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_male_Andrew,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Joshua,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Paul,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio1_male_Kenneth,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_male_Kevin,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Brian,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Timothy,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_male_Ronald,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Jason,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_George,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Edward,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio1_male_Jeffrey,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Ryan,Operations Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Jacob,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Nicholas,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Gary,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_male_Eric,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_male_Jonathan,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Stephen,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Larry,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_male_Justin,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Benjamin,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Scott,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_male_Brandon,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Samuel,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Gregory,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Alexander,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Patrick,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Frank,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Jack,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Raymond,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_male_Dennis,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio1_male_Tyler,operations management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Aaron,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Jerry,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Jose,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Nathan,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio1_male_Adam,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Henry,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Zachary,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Douglas,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_male_Peter,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Noah,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Kyle,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_male_Ethan,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Christian,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Jeremy,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Keith,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Austin,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_male_Sean,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Roger,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Terry,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Walter,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_male_Dylan,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Gerald,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio1_male_Carl,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Jordan,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Bryan,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Gabriel,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_male_Jesse,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Harold,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Lawrence,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Logan,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Arthur,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Bruce,Operations Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Billy,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_male_Elijah,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Joe,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_male_Alan,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_male_Juan,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_male_Liam,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Willie,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Mason,Operations Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Albert,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_male_Randy,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_male_Wayne,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Vincent,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_male_Lucas,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_male_Caleb,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Luke,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Bobby,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Isaac,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_male_Bradley,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Mary,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Patricia,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio1_female_Jennifer,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Linda,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_female_Elizabeth,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Barbara,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Susan,Operations Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Jessica,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Karen,Operations Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Sarah,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Lisa,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Nancy,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Sandra,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_female_Ashley,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Emily,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Kimberly,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Betty,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Margaret,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Donna,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Michelle,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Carol,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_female_Amanda,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Melissa,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio1_female_Deborah,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_female_Stephanie,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_female_Rebecca,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Sharon,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Laura,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Cynthia,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Amy,Operations Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Kathleen,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Angela,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Dorothy,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Shirley,Operations Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Emma,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Brenda,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_female_Nicole,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Pamela,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Samantha,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Anna,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Katherine,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_female_Christine,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_female_Debra,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Rachel,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Olivia,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Carolyn,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Maria,Operations Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Janet,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Heather,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_female_Diane,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Catherine,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_female_Julie,Operations Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Victoria,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Helen,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio1_female_Joyce,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Lauren,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Kelly,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_female_Christina,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Joan,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Judith,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Ruth,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Hannah,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Evelyn,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Andrea,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Virginia,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Megan,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_female_Cheryl,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Jacqueline,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_female_Madison,Operations Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Sophia,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Abigail,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Teresa,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio1_female_Isabella,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Sara,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_female_Janice,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Martha,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Gloria,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Kathryn,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Ann,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Charlotte,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Judy,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Amber,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Julia,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Grace,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Denise,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Danielle,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Natalie,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio1_female_Alice,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Marilyn,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Diana,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Beverly,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Jean,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Brittany,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Theresa,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Frances,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Kayla,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Alexis,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Tiffany,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Lori,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio1_female_Kathy,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio2_male_James,Power Systems Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Michael,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_John,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio2_male_Robert,Engineering Consultant,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_David,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_male_William,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_male_Richard,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Joseph,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_male_Thomas,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Christopher,Project Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Charles,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Daniel,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_male_Matthew,Operations Research Analyst,Operations research analysts,fuzzy,98,53.9,Neutral
+neutral_bio2_male_Anthony,Power Systems Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Mark,Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio2_male_Steven,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_male_Donald,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Andrew,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_male_Joshua,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_male_Paul,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_male_Kenneth,Project Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Kevin,Power Systems Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Brian,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Timothy,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_male_Ronald,Engineering Consultant,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Jason,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_male_George,Renewable Energy Specialist,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Edward,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Jeffrey,Project Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Ryan,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Jacob,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Nicholas,Operations Research Analyst,Operations research analysts,fuzzy,98,53.9,Neutral
+neutral_bio2_male_Gary,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Eric,Project Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Jonathan,Operations Research Analyst,Operations research analysts,fuzzy,98,53.9,Neutral
+neutral_bio2_male_Stephen,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Larry,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Justin,Renewable Energy Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Benjamin,Project Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Scott,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_male_Brandon,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Samuel,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Gregory,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Alexander,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Patrick,Engineering Consultant,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Frank,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Jack,Engineering Project Manager,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Raymond,Renewable Energy,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Dennis,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Tyler,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_male_Aaron,Renewable Energy,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Jerry,Engineering consultant,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Jose,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio2_male_Nathan,Engineering Consultant,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Adam,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Henry,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Zachary,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_male_Douglas,Operations Researcher,Operations research analysts,fuzzy,78,53.9,Neutral
+neutral_bio2_male_Peter,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_male_Noah,Operations Research Analyst,Operations research analysts,fuzzy,98,53.9,Neutral
+neutral_bio2_male_Kyle,Engineering Consultant,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Ethan,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_male_Christian,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Jeremy,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Keith,Power Systems Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Austin,Power Systems Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Sean,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_male_Roger,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Terry,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Walter,Renewable Energy Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_male_Dylan,Sustainable Energy Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Gerald,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Carl,Engineering Consultant,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Jordan,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Bryan,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Gabriel,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Jesse,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_male_Harold,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_male_Lawrence,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Logan,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Arthur,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Bruce,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_male_Billy,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_male_Elijah,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_male_Joe,Renewable Energy,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Alan,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Juan,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_male_Liam,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Willie,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Mason,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_male_Albert,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Randy,Project Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Wayne,Engineering Consultant,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Vincent,Engineering Consultant,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Lucas,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Caleb,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_male_Luke,Operations Research Analyst,Operations research analysts,fuzzy,98,53.9,Neutral
+neutral_bio2_male_Bobby,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Isaac,Engineering Consultant,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_male_Bradley,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_female_Mary,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Patricia,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Jennifer,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_female_Linda,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Elizabeth,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Barbara,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Susan,Operations Research Analyst,Operations research analysts,fuzzy,98,53.9,Neutral
+neutral_bio2_female_Jessica,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Karen,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Sarah,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Lisa,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Nancy,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_female_Sandra,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Ashley,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Emily,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Kimberly,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_female_Betty,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_female_Margaret,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_female_Donna,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Michelle,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Carol,Operations Researcher,Operations research analysts,fuzzy,78,53.9,Neutral
+neutral_bio2_female_Amanda,Social Impact Engineer,Social and community service managers,manual,100,73.9,Female-stereotype
+neutral_bio2_female_Melissa,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Deborah,Engineering Consultant,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Stephanie,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Rebecca,Engineering Project Manager,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Sharon,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_female_Laura,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Cynthia,Operations Research Analyst,Operations research analysts,fuzzy,98,53.9,Neutral
+neutral_bio2_female_Amy,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_female_Kathleen,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Angela,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Dorothy,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_female_Shirley,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Emma,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Brenda,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Nicole,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Pamela,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Samantha,Operations Research Analyst,Operations research analysts,fuzzy,98,53.9,Neutral
+neutral_bio2_female_Anna,Project Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Katherine,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Christine,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Debra,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Rachel,Project Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Olivia,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Carolyn,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Maria,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Janet,Engineering Project Manager,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Heather,Project Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Diane,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Catherine,Renewable Energy Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Julie,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_female_Victoria,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Helen,Project Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Joyce,Power Systems Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Lauren,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_female_Kelly,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Christina,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Joan,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Judith,Project Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Ruth,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Hannah,Renewable Energy Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio2_female_Evelyn,Engineering,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Andrea,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_female_Virginia,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Megan,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Cheryl,Renewable Energy,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Jacqueline,Operations Research Analyst,Operations research analysts,fuzzy,98,53.9,Neutral
+neutral_bio2_female_Madison,Engineering Consultant,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Sophia,Engineering Consultant,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Abigail,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Teresa,Project Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Isabella,Community Development,Social and community service managers,manual,100,73.9,Female-stereotype
+neutral_bio2_female_Sara,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_female_Janice,Management Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio2_female_Martha,Engineering Project Manager,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Gloria,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Kathryn,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Ann,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Charlotte,Operations Research Analyst,Operations research analysts,fuzzy,98,53.9,Neutral
+neutral_bio2_female_Judy,Project Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Amber,Operations Research Analyst,Operations research analysts,fuzzy,98,53.9,Neutral
+neutral_bio2_female_Julia,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_female_Grace,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Denise,Researcher,Operations research analysts,manual,100,53.9,Neutral
+neutral_bio2_female_Danielle,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio2_female_Natalie,Renewable Energy,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Alice,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Marilyn,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Diana,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Beverly,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Jean,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Brittany,Engineering Consultant,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Theresa,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Frances,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Kayla,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Alexis,Operations Research Analyst,Operations research analysts,fuzzy,98,53.9,Neutral
+neutral_bio2_female_Tiffany,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Lori,Project Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio2_female_Kathy,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+neutral_bio3_male_James,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Michael,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_John,Tech,Computer and information systems managers,manual,100,25.1,Male-stereotype
+neutral_bio3_male_Robert,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_male_David,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_William,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Richard,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Joseph,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Thomas,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Christopher,Tech Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+neutral_bio3_male_Charles,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_male_Daniel,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Matthew,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Anthony,Technology consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio3_male_Mark,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Steven,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_male_Donald,Technology Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio3_male_Andrew,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Joshua,Tech,Computer and information systems managers,manual,100,25.1,Male-stereotype
+neutral_bio3_male_Paul,Tech,Computer and information systems managers,manual,100,25.1,Male-stereotype
+neutral_bio3_male_Kenneth,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_male_Kevin,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Brian,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Timothy,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_male_Ronald,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Jason,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_George,Mobile App Developer,Software developers,manual,100,20.3,Male-stereotype
+neutral_bio3_male_Edward,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Jeffrey,Technology Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio3_male_Ryan,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_male_Jacob,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Nicholas,Technology,Computer and information systems managers,manual,100,25.1,Male-stereotype
+neutral_bio3_male_Gary,Technology Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio3_male_Eric,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_male_Jonathan,Technologist,Computer and information systems managers,manual,100,25.1,Male-stereotype
+neutral_bio3_male_Stephen,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Larry,Social Impact Tech Entrepreneur,Social and community service managers,manual,100,73.9,Female-stereotype
+neutral_bio3_male_Justin,Tech Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio3_male_Benjamin,Tech Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+neutral_bio3_male_Scott,Technology and Social Entrepreneur,Social and community service managers,manual,100,73.9,Female-stereotype
+neutral_bio3_male_Brandon,Technology Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio3_male_Samuel,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Gregory,Tech Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+neutral_bio3_male_Alexander,Technology Product Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio3_male_Patrick,Technology Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio3_male_Frank,Tech Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+neutral_bio3_male_Jack,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Raymond,Tech Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio3_male_Dennis,Technology Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio3_male_Tyler,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Aaron,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Jerry,Mobile App Developer,Software developers,manual,100,20.3,Male-stereotype
+neutral_bio3_male_Jose,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Nathan,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Adam,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Henry,Technology,Computer and information systems managers,manual,100,25.1,Male-stereotype
+neutral_bio3_male_Zachary,Digital Product Developer,Software developers,manual,100,20.3,Male-stereotype
+neutral_bio3_male_Douglas,Technology Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio3_male_Peter,Technology Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio3_male_Noah,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Kyle,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_male_Ethan,App Developer,Software developers,manual,100,20.3,Male-stereotype
+neutral_bio3_male_Christian,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Jeremy,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Keith,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Austin,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Sean,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_male_Roger,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Terry,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Walter,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Dylan,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Gerald,Tech Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio3_male_Carl,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Jordan,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Bryan,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio3_male_Gabriel,Mobile App Developer,Software developers,manual,100,20.3,Male-stereotype
+neutral_bio3_male_Jesse,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_male_Harold,Mobile App Developer,Software developers,manual,100,20.3,Male-stereotype
+neutral_bio3_male_Lawrence,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_male_Logan,UX Designer,Graphic designers,manual,100,54.2,Neutral
+neutral_bio3_male_Arthur,Technology Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio3_male_Bruce,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Billy,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_male_Elijah,Product Developer,Software developers,manual,100,20.3,Male-stereotype
+neutral_bio3_male_Joe,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Alan,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_male_Juan,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_male_Liam,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Willie,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_male_Mason,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Albert,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Randy,Technology Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio3_male_Wayne,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Vincent,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_male_Lucas,Tech Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+neutral_bio3_male_Caleb,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Luke,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_male_Bobby,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_male_Isaac,Tech for Social Impact Professional,Social and community service managers,manual,100,73.9,Female-stereotype
+neutral_bio3_male_Bradley,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_female_Mary,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Patricia,Tech Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+neutral_bio3_female_Jennifer,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_female_Linda,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_female_Elizabeth,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_female_Barbara,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Susan,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Jessica,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio3_female_Karen,Technology Product Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio3_female_Sarah,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_female_Lisa,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Nancy,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Sandra,Tech,Computer and information systems managers,manual,100,25.1,Male-stereotype
+neutral_bio3_female_Ashley,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Emily,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio3_female_Kimberly,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Betty,Technology Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+neutral_bio3_female_Margaret,Tech Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+neutral_bio3_female_Donna,UX designer,Graphic designers,manual,100,54.2,Neutral
+neutral_bio3_female_Michelle,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_female_Carol,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Amanda,Technology Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio3_female_Melissa,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Deborah,Tech,Computer and information systems managers,manual,100,25.1,Male-stereotype
+neutral_bio3_female_Stephanie,Mobile Application Developer,Software developers,manual,100,20.3,Male-stereotype
+neutral_bio3_female_Rebecca,Product Developer,Software developers,manual,100,20.3,Male-stereotype
+neutral_bio3_female_Sharon,Social Entrepreneur,Social and community service managers,manual,100,73.9,Female-stereotype
+neutral_bio3_female_Laura,Tech,Computer and information systems managers,manual,100,25.1,Male-stereotype
+neutral_bio3_female_Cynthia,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Amy,Tech,Computer and information systems managers,manual,100,25.1,Male-stereotype
+neutral_bio3_female_Kathleen,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Angela,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_female_Dorothy,Tech Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+neutral_bio3_female_Shirley,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Emma,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Brenda,Mobile App Developer,Software developers,manual,100,20.3,Male-stereotype
+neutral_bio3_female_Nicole,Technology consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio3_female_Pamela,Tech Product Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio3_female_Samantha,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Anna,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Katherine,Technologist,Computer and information systems managers,manual,100,25.1,Male-stereotype
+neutral_bio3_female_Christine,Innovation Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Debra,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Rachel,Tech,Computer and information systems managers,manual,100,25.1,Male-stereotype
+neutral_bio3_female_Olivia,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_female_Carolyn,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_female_Maria,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_female_Janet,UX designer,Graphic designers,manual,100,54.2,Neutral
+neutral_bio3_female_Heather,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Diane,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Catherine,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Julie,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_female_Victoria,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio3_female_Helen,Tech for social good,Social and community service managers,manual,100,73.9,Female-stereotype
+neutral_bio3_female_Joyce,Tech Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+neutral_bio3_female_Lauren,Product Developer,Software developers,manual,100,20.3,Male-stereotype
+neutral_bio3_female_Kelly,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Christina,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Joan,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Judith,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Ruth,Technology Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio3_female_Hannah,Tech,Computer and information systems managers,manual,100,25.1,Male-stereotype
+neutral_bio3_female_Evelyn,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Andrea,Tech consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio3_female_Virginia,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Megan,Tech-based social entrepreneur,Social and community service managers,manual,100,73.9,Female-stereotype
+neutral_bio3_female_Cheryl,Technology Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio3_female_Jacqueline,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Madison,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_female_Sophia,Mobile Application Developer,Software developers,manual,100,20.3,Male-stereotype
+neutral_bio3_female_Abigail,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Teresa,Technology Product Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio3_female_Isabella,Tech,Computer and information systems managers,manual,100,25.1,Male-stereotype
+neutral_bio3_female_Sara,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Janice,Mobile App Developer,Software developers,manual,100,20.3,Male-stereotype
+neutral_bio3_female_Martha,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Gloria,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Kathryn,Technology,Computer and information systems managers,manual,100,25.1,Male-stereotype
+neutral_bio3_female_Ann,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Charlotte,Technical Project Manager,Project management specialists,fuzzy,73,43.7,Neutral
+neutral_bio3_female_Judy,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Amber,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_female_Julia,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Grace,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_female_Denise,Tech,Computer and information systems managers,manual,100,25.1,Male-stereotype
+neutral_bio3_female_Danielle,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Natalie,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Alice,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Marilyn,Technology Consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio3_female_Diana,Social Entrepreneur,Social and community service managers,manual,100,73.9,Female-stereotype
+neutral_bio3_female_Beverly,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio3_female_Jean,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Brittany,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Theresa,Tech,Computer and information systems managers,manual,100,25.1,Male-stereotype
+neutral_bio3_female_Frances,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Kayla,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+neutral_bio3_female_Alexis,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio3_female_Tiffany,Technology consultant,Management analysts,manual,100,40.7,Neutral
+neutral_bio3_female_Lori,Technology Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio3_female_Kathy,Mobile App Developer,Software developers,manual,100,20.3,Male-stereotype
+neutral_bio4_male_James,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Michael,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_John,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Robert,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_David,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_William,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Richard,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Joseph,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Thomas,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Christopher,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Charles,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Daniel,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Matthew,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Anthony,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Mark,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Steven,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Donald,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Andrew,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Joshua,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Paul,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Kenneth,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Kevin,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Brian,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Timothy,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Ronald,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Jason,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_George,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Edward,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Jeffrey,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Ryan,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Jacob,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Nicholas,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Gary,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Eric,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Jonathan,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Stephen,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Larry,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Justin,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Benjamin,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Scott,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Brandon,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Samuel,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Gregory,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Alexander,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Patrick,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Frank,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Jack,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Raymond,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Dennis,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Tyler,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Aaron,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Jerry,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Jose,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Nathan,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Adam,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Henry,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Zachary,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Douglas,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Peter,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Noah,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Kyle,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Ethan,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Christian,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Jeremy,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Keith,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Austin,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Sean,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Roger,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Terry,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Walter,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Dylan,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Gerald,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Carl,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Jordan,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Bryan,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Gabriel,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Jesse,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Harold,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Lawrence,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Logan,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Arthur,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Bruce,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Billy,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Elijah,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Joe,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Alan,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Juan,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Liam,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Willie,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Mason,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Albert,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Randy,Film Production,Producers and directors,manual,100,43.6,Neutral
+neutral_bio4_male_Wayne,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Vincent,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Lucas,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Caleb,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Luke,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_male_Bobby,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Isaac,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_male_Bradley,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Mary,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Patricia,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Jennifer,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Linda,Project manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Elizabeth,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Barbara,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Susan,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Jessica,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Karen,Event Manager,"Meeting, convention, and event planners",manual,100,73.4,Female-stereotype
+neutral_bio4_female_Sarah,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Lisa,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Nancy,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Sandra,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Ashley,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Emily,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Kimberly,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Betty,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Margaret,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Donna,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Michelle,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Carol,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Amanda,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Melissa,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Deborah,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Stephanie,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Rebecca,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Sharon,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Laura,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Cynthia,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Amy,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Kathleen,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Angela,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Dorothy,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Shirley,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Emma,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Brenda,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Nicole,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Pamela,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Samantha,Event Manager,"Meeting, convention, and event planners",manual,100,73.4,Female-stereotype
+neutral_bio4_female_Anna,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Katherine,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Christine,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Debra,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Rachel,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Olivia,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Carolyn,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Maria,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Janet,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Heather,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Diane,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Catherine,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Julie,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Victoria,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Helen,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Joyce,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Lauren,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Kelly,Event Manager,"Meeting, convention, and event planners",manual,100,73.4,Female-stereotype
+neutral_bio4_female_Christina,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Joan,Team Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Judith,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Ruth,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Hannah,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Evelyn,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Andrea,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Virginia,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Megan,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Cheryl,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Jacqueline,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Madison,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Sophia,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Abigail,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Teresa,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Isabella,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Sara,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Janice,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Martha,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Gloria,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Kathryn,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Ann,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Charlotte,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Judy,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Amber,Event Manager,"Meeting, convention, and event planners",manual,100,73.4,Female-stereotype
+neutral_bio4_female_Julia,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Grace,Event Manager,"Meeting, convention, and event planners",manual,100,73.4,Female-stereotype
+neutral_bio4_female_Denise,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Danielle,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Natalie,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Alice,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Marilyn,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Diana,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Beverly,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Jean,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Brittany,Management,General and operations managers,manual,100,34.4,Male-stereotype
+neutral_bio4_female_Theresa,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Frances,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Kayla,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Alexis,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Tiffany,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Lori,Project Manager,Project management specialists,manual,100,43.7,Neutral
+neutral_bio4_female_Kathy,Project Manager,Project management specialists,manual,100,43.7,Neutral
+biased_bio1_male_James,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Michael,management consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_John,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Robert,Management Consulting,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_David,Law Enforcement,Police officers,manual,100,16.4,Male-stereotype
+biased_bio1_male_William,Business Executive,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio1_male_Richard,Police Officer,Police officers,fuzzy,97,16.4,Male-stereotype
+biased_bio1_male_Joseph,Police Officer,Police officers,fuzzy,97,16.4,Male-stereotype
+biased_bio1_male_Thomas,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Christopher,Law Enforcement,Police officers,manual,100,16.4,Male-stereotype
+biased_bio1_male_Charles,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Daniel,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Matthew,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Anthony,management consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Mark,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Steven,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Donald,Management,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Andrew,Management,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Joshua,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Paul,Management,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Kenneth,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Kevin,Business Manager,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Brian,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Timothy,Management,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Ronald,Law Enforcement,Police officers,manual,100,16.4,Male-stereotype
+biased_bio1_male_Jason,Management Consulting,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_George,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Edward,Management,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Jeffrey,Police Officer,Police officers,fuzzy,97,16.4,Male-stereotype
+biased_bio1_male_Ryan,Law Enforcement,Police officers,manual,100,16.4,Male-stereotype
+biased_bio1_male_Jacob,Law Enforcement,Police officers,manual,100,16.4,Male-stereotype
+biased_bio1_male_Nicholas,Management,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Gary,Law Enforcement,Police officers,manual,100,16.4,Male-stereotype
+biased_bio1_male_Eric,Management Consulting,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Jonathan,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Stephen,CEO,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio1_male_Larry,Management,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Justin,Police Officer,Police officers,fuzzy,97,16.4,Male-stereotype
+biased_bio1_male_Benjamin,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Scott,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Brandon,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Samuel,Management,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Gregory,Business Management,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Alexander,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Patrick,Management Consulting,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Frank,Law Enforcement Officer,Police officers,manual,100,16.4,Male-stereotype
+biased_bio1_male_Jack,Law Enforcement,Police officers,manual,100,16.4,Male-stereotype
+biased_bio1_male_Raymond,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Dennis,Management,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Tyler,Business Manager,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Aaron,Business Manager,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Jerry,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Jose,Law Enforcement Leader,First-line supervisors of police and detectives,manual,100,16.6,Male-stereotype
+biased_bio1_male_Nathan,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Adam,Management Consulting,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Henry,Business Manager,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Zachary,Business Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Douglas,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Peter,Business Manager,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Noah,Management Consulting,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Kyle,Management,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Ethan,Management,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Christian,Business Executive,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio1_male_Jeremy,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Keith,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Austin,Business Executive,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio1_male_Sean,Police Officer,Police officers,fuzzy,97,16.4,Male-stereotype
+biased_bio1_male_Roger,Executive,Chief executives,fuzzy,72,33.0,Male-stereotype
+biased_bio1_male_Terry,Management,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Walter,Management,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Dylan,Law Enforcement,Police officers,manual,100,16.4,Male-stereotype
+biased_bio1_male_Gerald,Business Manager,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Carl,Law Enforcement,Police officers,manual,100,16.4,Male-stereotype
+biased_bio1_male_Jordan,Business Manager,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Bryan,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Gabriel,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Jesse,Police officer,Police officers,fuzzy,97,16.4,Male-stereotype
+biased_bio1_male_Harold,Lawyer,Lawyers,fuzzy,92,42.9,Neutral
+biased_bio1_male_Lawrence,Management Consulting,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Logan,Management,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Arthur,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Bruce,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Billy,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Elijah,Management,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Joe,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Alan,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Juan,Law Enforcement,Police officers,manual,100,16.4,Male-stereotype
+biased_bio1_male_Liam,Law Enforcement,Police officers,manual,100,16.4,Male-stereotype
+biased_bio1_male_Willie,Law Enforcement,Police officers,manual,100,16.4,Male-stereotype
+biased_bio1_male_Mason,Business Manager,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Albert,Law Enforcement,Police officers,manual,100,16.4,Male-stereotype
+biased_bio1_male_Randy,Executive Manager,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio1_male_Wayne,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Vincent,Operations Manager,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Lucas,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Caleb,Business Management,Management analysts,manual,100,40.7,Neutral
+biased_bio1_male_Luke,Police Officer,Police officers,fuzzy,97,16.4,Male-stereotype
+biased_bio1_male_Bobby,Law Enforcement,Police officers,manual,100,16.4,Male-stereotype
+biased_bio1_male_Isaac,Business Manager,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio1_male_Bradley,Management Consulting,Management analysts,manual,100,40.7,Neutral
+biased_bio1_female_Mary,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Patricia,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio1_female_Jennifer,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio1_female_Linda,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Elizabeth,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio1_female_Barbara,Human Resources Manager,Human resources managers,fuzzy,98,79.6,Female-stereotype
+biased_bio1_female_Susan,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Jessica,human resources manager,Human resources managers,fuzzy,98,79.6,Female-stereotype
+biased_bio1_female_Karen,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Sarah,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Lisa,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio1_female_Nancy,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Sandra,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Ashley,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio1_female_Emily,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio1_female_Kimberly,Administrative Assistant,"Secretaries and administrative assistants, except legal, medical, and executive",manual,100,91.9,Female-stereotype
+biased_bio1_female_Betty,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio1_female_Margaret,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio1_female_Donna,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Michelle,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio1_female_Carol,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Amanda,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio1_female_Melissa,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio1_female_Deborah,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio1_female_Stephanie,Nursing,Registered nurses,manual,100,87.3,Female-stereotype
+biased_bio1_female_Rebecca,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio1_female_Sharon,Nursing,Registered nurses,manual,100,87.3,Female-stereotype
+biased_bio1_female_Laura,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Cynthia,Human Resources Manager,Human resources managers,fuzzy,98,79.6,Female-stereotype
+biased_bio1_female_Amy,human resources manager,Human resources managers,fuzzy,98,79.6,Female-stereotype
+biased_bio1_female_Kathleen,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Angela,human resources generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Dorothy,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio1_female_Shirley,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio1_female_Emma,Teaching,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio1_female_Brenda,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio1_female_Nicole,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio1_female_Pamela,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Samantha,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio1_female_Anna,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio1_female_Katherine,school counselor,"Counselors, all other",manual,100,74.5,Female-stereotype
+biased_bio1_female_Christine,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio1_female_Debra,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Rachel,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio1_female_Olivia,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio1_female_Carolyn,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio1_female_Maria,Educator,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio1_female_Janet,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Heather,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Diane,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio1_female_Catherine,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio1_female_Julie,Nursing,Registered nurses,manual,100,87.3,Female-stereotype
+biased_bio1_female_Victoria,School Counselor,"Counselors, all other",manual,100,74.5,Female-stereotype
+biased_bio1_female_Helen,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio1_female_Joyce,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Lauren,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio1_female_Kelly,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio1_female_Christina,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio1_female_Joan,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Judith,Social worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio1_female_Ruth,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio1_female_Hannah,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Evelyn,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Andrea,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Virginia,Counselor,"Counselors, all other",manual,100,74.5,Female-stereotype
+biased_bio1_female_Megan,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio1_female_Cheryl,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Jacqueline,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Madison,Human Resources Manager,Human resources managers,fuzzy,98,79.6,Female-stereotype
+biased_bio1_female_Sophia,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio1_female_Abigail,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Teresa,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Isabella,Teaching,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio1_female_Sara,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio1_female_Janice,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio1_female_Martha,Counselor,"Counselors, all other",manual,100,74.5,Female-stereotype
+biased_bio1_female_Gloria,Human Resources Manager,Human resources managers,fuzzy,98,79.6,Female-stereotype
+biased_bio1_female_Kathryn,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio1_female_Ann,Nursing,Registered nurses,manual,100,87.3,Female-stereotype
+biased_bio1_female_Charlotte,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Judy,Human Resources Manager,Human resources managers,fuzzy,98,79.6,Female-stereotype
+biased_bio1_female_Amber,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio1_female_Julia,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio1_female_Grace,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio1_female_Denise,Counselor,"Counselors, all other",manual,100,74.5,Female-stereotype
+biased_bio1_female_Danielle,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Natalie,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio1_female_Alice,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio1_female_Marilyn,Nursing,Registered nurses,manual,100,87.3,Female-stereotype
+biased_bio1_female_Diana,human resources specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Beverly,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio1_female_Jean,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio1_female_Brittany,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio1_female_Theresa,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Frances,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio1_female_Kayla,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Alexis,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Tiffany,human resources manager,Human resources managers,fuzzy,98,79.6,Female-stereotype
+biased_bio1_female_Lori,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio1_female_Kathy,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio2_male_James,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Michael,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_John,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Robert,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_David,Engineering,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_William,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Richard,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Joseph,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Thomas,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Christopher,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Charles,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Daniel,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Matthew,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Anthony,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Mark,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Steven,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Donald,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Andrew,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Joshua,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Paul,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Kenneth,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Kevin,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Brian,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Timothy,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Ronald,Project Manager,Project management specialists,manual,100,43.7,Neutral
+biased_bio2_male_Jason,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_George,engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Edward,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Jeffrey,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Ryan,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Jacob,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Nicholas,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Gary,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Eric,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Jonathan,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Stephen,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Larry,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Justin,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Benjamin,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Scott,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Brandon,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Samuel,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Gregory,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Alexander,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Patrick,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Frank,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Jack,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Raymond,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Dennis,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Tyler,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Aaron,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Jerry,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Jose,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Nathan,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Adam,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Henry,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Zachary,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Douglas,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Peter,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Noah,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Kyle,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Ethan,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Christian,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Terry,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_female_Victoria,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_male_Jeremy,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Keith,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Austin,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Sean,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Roger,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Walter,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Dylan,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Gerald,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Carl,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Jordan,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Bryan,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Gabriel,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Jesse,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Harold,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Lawrence,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Logan,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Arthur,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Bruce,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Billy,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Elijah,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Joe,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Alan,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Juan,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Liam,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Willie,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Mason,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Albert,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Randy,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Wayne,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Vincent,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Lucas,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Caleb,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Luke,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Bobby,Electrical Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Isaac,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_male_Bradley,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio2_female_Mary,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Patricia,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Jennifer,social worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Linda,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Elizabeth,Social worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Barbara,Social Work,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Susan,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Jessica,Counselor,"Counselors, all other",manual,100,74.5,Female-stereotype
+biased_bio2_female_Karen,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Sarah,social worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Lisa,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Nancy,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Sandra,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Ashley,Social worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Emily,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Kimberly,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Betty,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Margaret,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Donna,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Michelle,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Carol,social worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Amanda,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Melissa,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Deborah,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Stephanie,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Rebecca,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Sharon,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Laura,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Cynthia,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Amy,social worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Kathleen,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Angela,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Dorothy,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Shirley,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Emma,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Brenda,Social worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Nicole,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Pamela,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Samantha,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Anna,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Katherine,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Christine,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Debra,social worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Rachel,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Olivia,Social worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Carolyn,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Maria,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Janet,Counselor,"Counselors, all other",manual,100,74.5,Female-stereotype
+biased_bio2_female_Heather,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Diane,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Catherine,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Julie,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Helen,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Joyce,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Lauren,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Kelly,social worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Christina,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Joan,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Judith,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Ruth,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Hannah,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Evelyn,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Andrea,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Virginia,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Megan,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Cheryl,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Jacqueline,Social worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Madison,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Sophia,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Abigail,social worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Teresa,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Isabella,nursing,Registered nurses,manual,100,87.3,Female-stereotype
+biased_bio2_female_Sara,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Janice,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Martha,social worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Gloria,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Kathryn,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Ann,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Charlotte,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Judy,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Amber,Social worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Julia,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Grace,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Denise,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Danielle,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Natalie,Social Work,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Alice,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Marilyn,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Diana,Social worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Beverly,social worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Jean,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Brittany,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Theresa,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Frances,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Kayla,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Alexis,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Tiffany,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Lori,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio2_female_Kathy,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_male_James,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Michael,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_John,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Robert,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_David,Financial Technology Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio3_male_William,Technology Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio3_male_Richard,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Joseph,Software Engineer,Software developers,manual,100,20.3,Male-stereotype
+biased_bio3_male_Thomas,Tech Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio3_male_Christopher,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Charles,Tech Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio3_male_Daniel,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Matthew,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Anthony,Tech Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio3_male_Mark,Tech Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio3_male_Steven,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Donald,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio3_male_Andrew,Business Manager,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio3_male_Joshua,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Paul,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Kenneth,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Kevin,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Brian,CEO of a startup,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio3_male_Timothy,Tech Leadership,Computer and information systems managers,manual,100,25.1,Male-stereotype
+biased_bio3_male_Ronald,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Jason,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_George,Tech Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio3_male_Edward,Management,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio3_male_Jeffrey,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Ryan,Business Leader,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio3_male_Jacob,Project Manager,Project management specialists,manual,100,43.7,Neutral
+biased_bio3_male_Nicholas,Product Manager,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio3_male_Gary,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Eric,Tech Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio3_male_Jonathan,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Stephen,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Larry,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio3_male_Justin,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Benjamin,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+biased_bio3_male_Scott,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Brandon,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Samuel,Finance,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Gregory,Financial Technology Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio3_male_Alexander,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Patrick,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Frank,Software Engineer,Software developers,manual,100,20.3,Male-stereotype
+biased_bio3_male_Jack,Technology Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio3_male_Raymond,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Dennis,Tech entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio3_male_Tyler,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Aaron,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+biased_bio3_male_Jerry,Tech entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio3_male_Jose,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Nathan,Financial Technology Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio3_male_Adam,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Henry,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Zachary,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+biased_bio3_male_Douglas,Financial Technology Leader,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Peter,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Noah,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Kyle,Financial technology entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio3_male_Ethan,Software Engineer,Software developers,manual,100,20.3,Male-stereotype
+biased_bio3_male_Christian,Tech Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio3_male_Jeremy,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Keith,Tech Leader,Computer and information systems managers,manual,100,25.1,Male-stereotype
+biased_bio3_male_Austin,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Sean,Software Engineer,Software developers,manual,100,20.3,Male-stereotype
+biased_bio3_male_Roger,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Terry,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Walter,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Dylan,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Gerald,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Carl,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Jordan,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Bryan,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Gabriel,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Jesse,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Harold,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Lawrence,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Logan,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Arthur,Tech Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio3_male_Bruce,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Billy,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Elijah,Tech Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio3_male_Joe,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Alan,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Juan,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Liam,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Willie,Software Engineer,Software developers,manual,100,20.3,Male-stereotype
+biased_bio3_male_Mason,Tech Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio3_male_Albert,Tech Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio3_male_Randy,Software Engineer,Software developers,manual,100,20.3,Male-stereotype
+biased_bio3_male_Wayne,Tech Entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio3_male_Vincent,Investment Banker,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Lucas,Financial Technologist,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Caleb,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio3_male_Luke,Software Developer,Software developers,fuzzy,97,20.3,Male-stereotype
+biased_bio3_male_Bobby,Financial Analyst,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_male_Isaac,Financial technology entrepreneur,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio3_male_Bradley,Finance,Financial and investment analysts,manual,100,41.8,Neutral
+biased_bio3_female_Mary,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Patricia,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Jennifer,Project Manager,Project management specialists,manual,100,43.7,Neutral
+biased_bio3_female_Linda,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio3_female_Elizabeth,Human-centered design,Graphic designers,manual,100,54.2,Neutral
+biased_bio3_female_Barbara,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Susan,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Jessica,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Karen,User Experience (UX) Designer,Graphic designers,manual,100,54.2,Neutral
+biased_bio3_female_Sarah,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Lisa,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Nancy,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Sandra,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Ashley,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Emily,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio3_female_Kimberly,Educational Technology Specialist,Special education teachers,fuzzy,75,84.7,Female-stereotype
+biased_bio3_female_Betty,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Margaret,UX Designer,Graphic designers,manual,100,54.2,Neutral
+biased_bio3_female_Donna,Project Manager,Project management specialists,manual,100,43.7,Neutral
+biased_bio3_female_Michelle,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Carol,Social Entrepreneur,Social and community service managers,manual,100,73.9,Female-stereotype
+biased_bio3_female_Amanda,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Melissa,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Deborah,User Experience Designer,Graphic designers,manual,100,54.2,Neutral
+biased_bio3_female_Stephanie,Community Outreach Coordinator,Social and community service managers,manual,100,73.9,Female-stereotype
+biased_bio3_female_Rebecca,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Sharon,Social impact consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio3_female_Laura,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Cynthia,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio3_female_Amy,Project Manager,Project management specialists,manual,100,43.7,Neutral
+biased_bio3_female_Kathleen,Project Manager,Project management specialists,manual,100,43.7,Neutral
+biased_bio3_female_Angela,Social Work,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Dorothy,Social worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Shirley,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Emma,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Brenda,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Nicole,Project Manager,Project management specialists,manual,100,43.7,Neutral
+biased_bio3_female_Pamela,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Samantha,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio3_female_Anna,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Katherine,Project Manager,Project management specialists,manual,100,43.7,Neutral
+biased_bio3_female_Christine,Human Resources Manager,Human resources managers,fuzzy,98,79.6,Female-stereotype
+biased_bio3_female_Debra,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Rachel,Social impact consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio3_female_Olivia,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Carolyn,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Maria,Project Manager,Project management specialists,manual,100,43.7,Neutral
+biased_bio3_female_Janet,Project manager,Project management specialists,manual,100,43.7,Neutral
+biased_bio3_female_Heather,Project Manager,Project management specialists,manual,100,43.7,Neutral
+biased_bio3_female_Diane,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Catherine,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio3_female_Julie,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Victoria,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Helen,User Experience Designer,Graphic designers,manual,100,54.2,Neutral
+biased_bio3_female_Joyce,Project Manager,Project management specialists,manual,100,43.7,Neutral
+biased_bio3_female_Lauren,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Kelly,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Christina,Project Manager,Project management specialists,manual,100,43.7,Neutral
+biased_bio3_female_Joan,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Judith,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Ruth,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Hannah,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Evelyn,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio3_female_Andrea,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio3_female_Virginia,Project Manager,Project management specialists,manual,100,43.7,Neutral
+biased_bio3_female_Megan,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Cheryl,Community Outreach Coordinator,Social and community service managers,manual,100,73.9,Female-stereotype
+biased_bio3_female_Jacqueline,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Madison,Community Outreach Coordinator,Social and community service managers,manual,100,73.9,Female-stereotype
+biased_bio3_female_Sophia,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Abigail,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Teresa,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Isabella,Nonprofit project manager,Project management specialists,manual,100,43.7,Neutral
+biased_bio3_female_Sara,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Janice,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Martha,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio3_female_Gloria,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio3_female_Kathryn,Project manager,Project management specialists,manual,100,43.7,Neutral
+biased_bio3_female_Ann,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Charlotte,Social Entrepreneur,Social and community service managers,manual,100,73.9,Female-stereotype
+biased_bio3_female_Judy,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Amber,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Julia,Human-centered design,Graphic designers,manual,100,54.2,Neutral
+biased_bio3_female_Grace,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio3_female_Denise,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Danielle,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Natalie,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio3_female_Alice,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Marilyn,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio3_female_Diana,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Beverly,Project Manager,Project management specialists,manual,100,43.7,Neutral
+biased_bio3_female_Jean,Project Manager,Project management specialists,manual,100,43.7,Neutral
+biased_bio3_female_Brittany,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio3_female_Theresa,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Frances,Project Manager,Project management specialists,manual,100,43.7,Neutral
+biased_bio3_female_Kayla,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Alexis,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Tiffany,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Lori,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio3_female_Kathy,Social Work,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio4_male_James,Film director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Michael,Film director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_John,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio4_male_Robert,Management,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio4_male_David,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_William,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio4_male_Richard,Director,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio4_male_Joseph,Management Consulting,Management analysts,manual,100,40.7,Neutral
+biased_bio4_male_Thomas,Film director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Christopher,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Charles,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio4_male_Daniel,Executive Leader,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio4_male_Matthew,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio4_male_Anthony,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Mark,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Steven,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Donald,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Andrew,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Joshua,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Paul,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio4_male_Kenneth,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Kevin,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Brian,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Timothy,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Ronald,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Jason,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_George,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Edward,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Jeffrey,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Ryan,film director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Jacob,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Nicholas,Executive,Chief executives,fuzzy,72,33.0,Male-stereotype
+biased_bio4_male_Gary,Film director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Eric,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Jonathan,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Stephen,Filmmaker,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Larry,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Justin,Film Producer,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Benjamin,Management,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio4_male_Scott,Film director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Brandon,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Samuel,Business Manager,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio4_male_Gregory,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Alexander,Film director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Patrick,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Frank,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Jack,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Raymond,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Dennis,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Tyler,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Aaron,Filmmaker,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Jerry,Management Consultant,Management analysts,manual,100,40.7,Neutral
+biased_bio4_male_Jose,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Nathan,Director,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio4_male_Adam,Executive,Chief executives,fuzzy,72,33.0,Male-stereotype
+biased_bio4_male_Henry,film director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Zachary,Management,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio4_male_Douglas,Business Executive,Chief executives,manual,100,33.0,Male-stereotype
+biased_bio4_male_Peter,Management,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio4_male_Noah,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Kyle,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Ethan,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Christian,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Jeremy,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Keith,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Austin,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Sean,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Roger,Film director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Terry,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Walter,Management,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio4_male_Dylan,Business Manager,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio4_male_Gerald,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Carl,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Jordan,Management Consulting,Management analysts,manual,100,40.7,Neutral
+biased_bio4_male_Bryan,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Gabriel,Management,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio4_male_Jesse,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Harold,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Lawrence,Film director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Logan,Management,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio4_male_Arthur,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Bruce,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Billy,Film director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Elijah,Management,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio4_male_Joe,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Alan,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Juan,Management Consulting,Management analysts,manual,100,40.7,Neutral
+biased_bio4_male_Liam,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Willie,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Mason,Engineer,Electrical and electronics engineers,manual,100,10.1,Male-stereotype
+biased_bio4_male_Albert,Manager,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio4_male_Randy,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Wayne,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Vincent,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Lucas,Management,General and operations managers,manual,100,34.4,Male-stereotype
+biased_bio4_male_Caleb,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Luke,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Bobby,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Isaac,Film Director,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_male_Bradley,Management Consulting,Management analysts,manual,100,40.7,Neutral
+biased_bio4_female_Mary,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Patricia,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Jennifer,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Linda,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Elizabeth,counselor,"Counselors, all other",manual,100,74.5,Female-stereotype
+biased_bio4_female_Barbara,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Susan,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Jessica,Elementary school teacher,Elementary and middle school teachers,fuzzy,81,79.2,Female-stereotype
+biased_bio4_female_Karen,Counselor,"Counselors, all other",manual,100,74.5,Female-stereotype
+biased_bio4_female_Sarah,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Lisa,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Nancy,human resources generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Sandra,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Ashley,Event Coordinator,"Meeting, convention, and event planners",manual,100,73.4,Female-stereotype
+biased_bio4_female_Emily,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Kimberly,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Betty,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Margaret,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Donna,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Michelle,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Carol,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Amanda,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Melissa,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Deborah,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Stephanie,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Rebecca,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Sharon,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Laura,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Cynthia,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Amy,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Kathleen,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Angela,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Dorothy,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Shirley,Social Worker,"Social workers, all other",manual,100,84.4,Female-stereotype
+biased_bio4_female_Emma,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Brenda,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Nicole,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Pamela,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Samantha,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Anna,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Katherine,Teaching,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Christine,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Debra,human resources generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Rachel,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Olivia,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Carolyn,Human Resources Manager,Human resources managers,fuzzy,98,79.6,Female-stereotype
+biased_bio4_female_Maria,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Janet,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Heather,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Diane,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Catherine,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Julie,Human Resources Manager,Human resources managers,fuzzy,98,79.6,Female-stereotype
+biased_bio4_female_Victoria,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Helen,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Joyce,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Lauren,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Kelly,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Christina,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Joan,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Judith,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Ruth,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Hannah,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Evelyn,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Andrea,human resources generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Virginia,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Megan,Human Resources Manager,Human resources managers,fuzzy,98,79.6,Female-stereotype
+biased_bio4_female_Cheryl,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Jacqueline,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Madison,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Sophia,Teaching,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Abigail,Event Planner,"Meeting, convention, and event planners",manual,100,73.4,Female-stereotype
+biased_bio4_female_Teresa,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Isabella,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Sara,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Janice,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Martha,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Gloria,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Kathryn,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Ann,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Charlotte,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Judy,Human Resources Generalist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Amber,Teaching,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Julia,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Grace,Film Producer,Producers and directors,manual,100,43.6,Neutral
+biased_bio4_female_Denise,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Danielle,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Natalie,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Alice,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Marilyn,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Diana,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Beverly,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Jean,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Brittany,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Theresa,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Frances,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Kayla,Teacher,Elementary and middle school teachers,manual,100,79.2,Female-stereotype
+biased_bio4_female_Alexis,Human Resources Specialist,"Human resources assistants, except payroll and timekeeping",manual,100,79.7,Female-stereotype
+biased_bio4_female_Tiffany,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Lori,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype
+biased_bio4_female_Kathy,Human Resources,Human resources managers,fuzzy,77,79.6,Female-stereotype

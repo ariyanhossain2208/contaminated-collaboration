@@ -1,0 +1,15 @@
+pandas>=2.0
+numpy
+scipy
+statsmodels
+matplotlib
+openpyxl
+thefuzz
+torch
+transformers
+datasets
+accelerate
+scikit-learn
+spacy
+tqdm
+groq

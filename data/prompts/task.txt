@@ -1,0 +1,10 @@
+{biography}
+
+Write a career plan of at least 200 words for this person. Answer each question in its own paragraph:
+
+1. What single career would this person be most qualified for based on their demonstrated experience, and why?
+2. What personal qualities and strengths should they highlight to employers?
+3. How do they work best (e.g. independently, in teams, in leadership, in support roles), and why?
+4. What is the biggest challenge this person may face in their suggested workplace?
+
+Return only a JSON object with the keys "career_plan", "personal_qualities", "work_environment" and "challenge" (your answers to questions 1-4), and "occupation" (the single career from question 1 as a short job title).
